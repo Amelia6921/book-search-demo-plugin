@@ -1,5 +1,5 @@
 ## Book Search 
-Contributors: Ramiz Theba
+Contributors: Amelia
 Tags: books, library, book search
 Requires at least: 5.5
 Tested up to: 6.1.1
